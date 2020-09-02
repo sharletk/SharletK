@@ -17,7 +17,7 @@ I am Sharlet George Kurien, also commonly known as SharletP.  I am a 16 year old
 2. **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
 
 ## Discord Server
-![SharletP Discord Guild Invite](http://invidget.switchblade.xyz/g34WJMC?theme=light)
+[![SharletP Discord Guild Invite](http://invidget.switchblade.xyz/g34WJMC?theme=light)](https://discord.gg/g34WJMC)
 
 ## Contact Me
 ### Primary:
