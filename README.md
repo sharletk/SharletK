@@ -16,20 +16,19 @@ I am Sharlet George Kurien, also commonly known as SharletP.  I am a 16 year old
 1. **Cubes Host**: [Cubes Host Website](https://cubes.host)
 2. **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
 
+## Discord Server
+[SharletP Discord Guild Invite](http://invidget.switchblade.xyz/g34WJMC?theme=light)
+
 ## Contact Me
 ### Primary:
 1. **Email:** sharletman@gmail.com
-
 2. **Discord:** SharletP#2928
 
 ### Secondary:
 1. **Twitter:** sharletp_
-
 2. **Instagram:** sharletp_
-
 3. **Reddit:** sharletp
 
 ## Support Me
 1. **Paypal:** [SharletP PayPal](https://paypal.me/sharletp)
-
 2. **Patreon:** *Coming soon*
