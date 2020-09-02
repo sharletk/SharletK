@@ -3,7 +3,7 @@
 I am Sharlet George Kurien, also commonly known as SharletP.  I am a 16 year old student who is also a learning full stack developer. My projects range from the smallest bit to the largest bytes out there. Follow me on my journey, as I learn and grow to become me.
 
 ## Pinned Projects
-**SharletPConsole.js**: [![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=SharletPConsole.js)](https://github.com/sharletp/SharletPConsole.js)
+[![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=SharletPConsole.js)](https://github.com/sharletp/SharletPConsole.js)
 
 ## Statistics
 ### Repository Data
@@ -18,14 +18,18 @@ I am Sharlet George Kurien, also commonly known as SharletP.  I am a 16 year old
 
 ## Contact Me
 ### Primary:
-**Email:** sharletman@gmail.com
-**Discord:** SharletP#2928
+1. **Email:** sharletman@gmail.com
+
+2. **Discord:** SharletP#2928
 
 ### Secondary:
-**Twitter:** sharletp_
-**Instagram:** sharletp_
-**Reddit:** sharletp
+1. **Twitter:** sharletp_
+
+2. **Instagram:** sharletp_
+
+3. **Reddit:** sharletp
 
 ## Support Me
-**Paypal:** [SharletP PayPal](https://paypal.me/sharletp)
-**Patreon:** *Coming soon*
+1. **Paypal:** [SharletP PayPal](https://paypal.me/sharletp)
+
+2. **Patreon:** *Coming soon*
