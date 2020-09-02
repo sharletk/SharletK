@@ -31,4 +31,4 @@ I am Sharlet George Kurien, also commonly known as SharletP.  I am a 16 year old
 
 ## Support Me
 1. **Paypal:** [SharletP PayPal](https://paypal.me/sharletp)
-2. **Patreon:** *Coming soon*
+2. **Patreon:** [SharletP Patreon](https://www.patreon.com/sharletp)
