@@ -12,6 +12,9 @@ I am Sharlet George Kurien, also commonly known as SharletP.  I am a 17 year old
 ### Top Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharletp&layout=compact)](https://github.com/sharletp/SharletP)
 
+### Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=sharletp)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Contributions / Working at
 1. **Cubes Host**: [Cubes Host Website](https://cubes.host)
 
