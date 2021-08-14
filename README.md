@@ -9,7 +9,7 @@ I am Sharlet George Kurien, also known as SharletP.  I am a 17 year old student 
 
  • Sys & Dev Ops
 
- • MEVN, LEMP, SALT: Javascript Typescript Python CSS PHP Docker MongoDB C# C++
+ • MEVN, LEMP, SALT: Javascript Typescript Python CSS PHP Docker MongoDB
 
 ## Pinned Projects
 [![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=SharletPConsole.js)](https://github.com/sharletp/SharletPConsole.js)
