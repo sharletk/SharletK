@@ -16,7 +16,7 @@ I am Sharlet George Kurien, also known as SharletP.  I am a 17 year old student 
 [![SharletP Github Statistics](https://github-readme-stats.vercel.app/api?username=sharletp&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/sharletp/SharletP)
 
 ### Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharletp&layout=compact)](https://github.com/sharletp/SharletP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharletp&layout=compact&langs_count=10)](https://github.com/sharletp/SharletP)
 
 ### Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=sharletp)](https://github.com/ryo-ma/github-profile-trophy)
