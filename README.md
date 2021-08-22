@@ -1,4 +1,4 @@
-# Eyy there, Greetings! 👋
+# Greetings! 👋
 
 I am Sharlet George Kurien, also known as SharletP.  I am a 17 year old student who is also a learning full stack developer.
 
