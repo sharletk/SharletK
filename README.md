@@ -1,15 +1,12 @@
 # Eyy there, Greetings! 👋
 
-I am Sharlet George Kurien, also known as SharletP.  I am a 17 year old student who is also a learning full stack developer. My projects range from the smallest bit to the largest bytes out there. Follow me on my journey, as I learn and grow to become me.
+I am Sharlet George Kurien, also known as SharletP.  I am a 17 year old student who is also a learning full stack developer.
 
-# Student & Full Stack Developer #
- • Cubes.Host: Chief Support Officer
+- Cubes.Host: Chief Support Officer
+- MagmaNetwork: Vice President & Lead Dev
+- Sys & Dev Ops
+- MEVN, LEMP, SALT: Javascript Typescript Python CSS PHP Docker MongoDB
 
- • MagmaNetwork: VP & Lead Dev
-
- • Sys & Dev Ops
-
- • MEVN, LEMP, SALT: Javascript Typescript Python CSS PHP Docker MongoDB
 
 ## Pinned Projects
 [![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=SharletPConsole.js)](https://github.com/sharletp/SharletPConsole.js)
