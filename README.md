@@ -10,6 +10,9 @@ I am Sharlet George Kurien, also known as SharletP.  I am a 17 year old student 
 
 ## Pinned Projects
 [![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=SharletPConsole.js)](https://github.com/sharletp/SharletPConsole.js)
+[![cubeshostvpsservice Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=cubeshostvpsservice)](https://github.com/sharletp/cubeshostvpsservice)
+[![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=cubeshostimagesandeggs)](https://github.com/sharletp/cubeshostimagesandeggs)
+
 
 ## Statistics
 ### Repository Data
