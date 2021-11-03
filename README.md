@@ -2,7 +2,7 @@
 
 I am Sharlet George Kurien, also known as SharletP.  I am a 18 year old student who is also a learning full stack developer.
 
-- Cubes.Host: Chief Support Officer
+- Cubes.Host: Chief Technical Officer
 - MagmaNetwork: Vice President & Lead Dev
 - Sys & Dev Ops
 - MEVN, LEMP, SALT: Javascript Typescript Python CSS PHP Docker MongoDB
