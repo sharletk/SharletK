@@ -3,9 +3,8 @@
 I am Sharlet George Kurien, also known as SharletP.  I am a 18 year old student who is also a learning full stack developer.
 
 - Cubes.Host: Chief Technical Officer
-- MagmaNetwork: Vice President & Lead Dev
-- MEVN, LEMP, SALT: Javascript Typescript Python CSS PHP Docker MongoDB
-
+- CatoStudios: Support & Technical Team
+- MagmaNetwork: Vice President & Lead Developer
 
 ## Pinned Projects
 [![SharletPConsole.js Github](https://github-readme-stats.vercel.app/api/pin/?username=sharletp&repo=SharletPConsole.js)](https://github.com/sharletp/SharletPConsole.js)
@@ -22,6 +21,8 @@ I am Sharlet George Kurien, also known as SharletP.  I am a 18 year old student 
 
 ## Contributions / Working at
 1. **Cubes Host**: [Cubes Host Website](https://cubes.host)
+
+2. **CatoStudios**: [CatoStudios Website](https://catostudios.nl)
 
 2. **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
 
