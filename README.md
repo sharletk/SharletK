@@ -3,8 +3,7 @@
 I am Sharlet George Kurien, also known as SharletK.  I am a 18 year old student who is also a learning full stack developer.
 
 - Cubes.Host: Chief Technical Officer
-- CatoStudios: Support & Technical Team
-- MagmaNetwork: Vice President & Lead Developer
+- MagmaNetwork: Chief Technology Officer
 
 ## Statistics
 ### Repository Data
