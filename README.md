@@ -18,7 +18,7 @@ I am Sharlet George Kurien, also known as SharletK.  I am a 18 year old student 
 ## Contributions / Working at
 1. **Cubes Host**: [Cubes Host Website](https://cubes.host)
 
-2. **CatoStudios**: [CatoStudios Website](https://catostudios.nl)
+2. **CatoStudios**: [CatoStudios Internal Systems](https://catostudios.nl) [Totless Merch Store](https://totless.tv)
 
 2. **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
 
