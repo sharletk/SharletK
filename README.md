@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-I am Sharlet George Kurien, also known as SharletK.  I am a 18 year old student who is also a learning full stack developer.
+I am Sharlet George Kurien, also known as SharletK.  I am a 19 year old student who is also a learning full stack developer.
 
 - Cubes.Host: Chief Operations Officer
 - MagmaNetwork: Chief Technology Officer
