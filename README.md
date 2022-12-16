@@ -4,16 +4,6 @@ Hello there! I am Sharlet George Kurien, 19 year old student and a passionate fu
 
 Worked across many other projects and contributed to multiple major services running globally.
 
-## Statistics
-### Repository Data
-[![SharletP Github Statistics](https://github-readme-stats.vercel.app/api?username=sharletk&count_private=true&show_icons=true&theme=highcontrast&include_all_commits=true)](https://github.com/sharletk/SharletK)
-
-### Top Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharletk&layout=compact&langs_count=10)](https://github.com/sharletK/SharletK)
-
-### Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sharletk)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Contributions / Working at
 - **CubesHost**: https://cubes.host 
 
