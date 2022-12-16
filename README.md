@@ -1,9 +1,8 @@
 # Greetings! 👋
 
-I am Sharlet George Kurien, also known as SharletK.  I am a 19 year old student who is also a learning full stack developer.
+Hello there! I am Sharlet George Kurien, 19 year old student and a passionate full stack developer, I've started back in October of 2016 developing small server software for game services upto now where I manage critical infrastructure and maintain services for different massive companies I work at including providing consultancy and much more depending upon the requirements.
 
-- Cubes.Host: Chief Operations Officer
-- MagmaNetwork: Chief Technology Officer
+Worked across many other projects and contributed to multiple major services running globally.
 
 ## Statistics
 ### Repository Data
@@ -16,23 +15,28 @@ I am Sharlet George Kurien, also known as SharletK.  I am a 19 year old student 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sharletk)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contributions / Working at
-1. **Cubes Host**: [Cubes Host Website](https://cubes.host)
+- **CubesHost**: [CubesHost Website](https://cubes.host) 
+Working as the Operaations Manager.
 
-2. **CatoStudios**: [CatoStudios Internal Systems](https://catostudios.nl) [Totless Merch Store](https://totless.tv)
-
-2. **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
-
+- **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
+Working as the Chief Technology Officer.
 <a href="https://minecraftpocket-servers.com/server/51785/"><img src="https://minecraftpocket-servers.com/server/51785/banners/regular-banner-4.png" border="0"></a>
+
+- **CatoStudios**: [CatoStudios Internal Systems](https://catostudios.nl) [Totless Merch Store](https://totless.tv)
+Resigned due to personal and work based conflicts.
+
+- **Nerdee Design**: [Nerdee Design Website](https://nerdee.design)
+Working as a System Administrator.
 
 ## Contact Me
 ### Primary:
-1. **Email:** sharletman@gmail.com
-2. **Discord:** SharletK#7777
+- **Email:** sharletman@gmail.com
+- **Discord:** SharletK#7777
 
 ### Secondary:
-1. **Twitter:** sharletkurien
-2. **Instagram:** sharletkurien
-3. **Reddit:** sharletp
+- **Twitter:** sharletkurien
+- **Instagram:** sharletkurien
+- **Reddit:** sharletp
 
 ## Support Me
-1. **Paypal:** [SharletK PayPal](https://paypal.me/sharletk)
+- **Paypal:** [SharletK PayPal](https://paypal.me/sharletk)
