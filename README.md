@@ -15,17 +15,22 @@ Worked across many other projects and contributed to multiple major services run
 [![trophy](https://github-profile-trophy.vercel.app/?username=sharletk)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Contributions / Working at
-- **CubesHost**: [CubesHost Website](https://cubes.host) 
-Working as the Operaations Manager.
+- **CubesHost**: https://cubes.host 
 
-- **MagmaNetworkPE**: [MagmaNetwork Github](https://github.com/MagmaNetworkPE)
+Working as the Operations Manager.
+
+- **MagmaNetworkPE**: https://github.com/MagmaNetworkPE
+
 Working as the Chief Technology Officer.
+
 <a href="https://minecraftpocket-servers.com/server/51785/"><img src="https://minecraftpocket-servers.com/server/51785/banners/regular-banner-4.png" border="0"></a>
 
-- **CatoStudios**: [CatoStudios Internal Systems](https://catostudios.nl) [Totless Merch Store](https://totless.tv)
+- **CatoStudios**: https://catostudios.nl and its associated project (https://totless.tv)
+
 Resigned due to personal and work based conflicts.
 
 - **Nerdee Design**: [Nerdee Design Website](https://nerdee.design)
+
 Working as a System Administrator.
 
 ## Contact Me
